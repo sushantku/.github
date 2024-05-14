@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: sushant09/TestRepo
+          tags: sushant09/Testepo07
